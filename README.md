@@ -48,7 +48,8 @@ while True:
 
 <H3> Output:</H3>
 
-![image](https://github.com/user-attachments/assets/ee196eef-22bc-46fe-9414-e9d7b6c81e78)
+![image](https://github.com/user-attachments/assets/d30ebd4d-55d3-43b9-98bd-b685df65403a)
+
 
 
 <H3> Result:</H3>
