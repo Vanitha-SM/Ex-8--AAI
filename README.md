@@ -38,7 +38,7 @@ def record_audio():
         print("Unable to find the Resource")
     return voicedata
 while True:
-    print("Say Something ....")
+    print("Say Something within 30 seconds ....")
     text=record_audio()
     print(text)
     if text=="stop" or text=="close" or text=="exit":
