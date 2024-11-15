@@ -48,7 +48,8 @@ while True:
 
 <H3> Output:</H3>
 
-![image](https://github.com/user-attachments/assets/d30ebd4d-55d3-43b9-98bd-b685df65403a)
+![WhatsApp Image 2024-11-15 at 10 17 16_6c329ccb](https://github.com/user-attachments/assets/91025a54-5ec1-42da-bad7-b9c8f7be41c6)
+
 
 
 
